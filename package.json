@@ -1,0 +1,16 @@
+{
+  "name": "playshumanchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "irc.js",
+  "dependencies": {
+    "node-osc": "^1.1.0",
+    "tmi.js": "0.0.23"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
